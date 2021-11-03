@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+h1{
+    text-align: center;
+    margin-top: 800px;
+    color: aqua;
+}
+p{
+    margin-bottom: 8px;
+    color: gray;
+}
+
+nav{
+    width: 800px;
+    height: 80px;
+    background-color: red;
+}
+
